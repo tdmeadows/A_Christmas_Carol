@@ -1,0 +1,193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 393.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/A Christmas Carol/intro.html",
+		"/C/Users/tmeadows/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tmeadows/Downloads/foundation-5.5.0/index.html",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/TheNautilus/index.html",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/TheNautilus/css/normalize.css",
+		"/C/Users/tmeadows/Dropbox/Code Work/night_day/views/index.html",
+		"/C/Users/tmeadows/Dropbox/Code Work/night_day/static/css/index.css",
+		"/C/Users/tmeadows/Dropbox/The Odin Project/Project Euler/Ruby/Problem1.rb",
+		"/C/Users/tmeadows/Dropbox/The Odin Project/JS Etch-A-Sketch/Sketch-Pad.html",
+		"/C/Users/tmeadows/Dropbox/The Odin Project/JS Etch-A-Sketch/Sketch-Pad.js",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Lake Howell Bible Chapel/Grayscale/external.html",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Lake Howell Bible Chapel/Grayscale/js/grayscale.js",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Lake Howell Bible Chapel/Grayscale/index.html",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Lake Howell Bible Chapel/Grayscale/css/grayscale.css",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Lake Howell Bible Chapel/Grayscale/js/jquery.slidepanel.js",
+		"/C/Users/tmeadows/Downloads/slide-in-panel/slide-in-panel/css/style.css",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Lake Howell Bible Chapel/Grayscale/css/bootstrap.css",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Lake Howell Bible Chapel/Grayscale/css/bootstrap.min.css",
+		"/C/Users/tmeadows/Dropbox/tdmeadows-Portfolio/Micrasem/carousel.css",
+		"/C/Users/tmeadows/Dropbox/Archive/Ruby/psychStudent_1.rb",
+		"/C/Users/tmeadows/Dropbox/tdmeadows Code/style2.css",
+		"/C/Users/tmeadows/Dropbox/tdmeadows Code/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"class=\"panel-collapse collapse in\"",
+			"class=\"panel-collapse collapse in",
+			"aria-expanded=\"false\"",
+			"aria",
+			"collapseTwo",
+			"li",
+			"front",
+			"font-size",
+			"map",
+			"li",
+			"ul ",
+			"ul",
+			"list-style",
+			"liststyle",
+			"img",
+			"work",
+			"framework",
+			"frame",
+			"hero",
+			" */",
+			"*/",
+			"/*",
+			"padding-left",
+			"gritandzest.com",
+			"tdmeadows.com/sil-thesis",
+			"mydevelepmentsites.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"-----------------*/",
+			"/*-----------------",
+			"tdmeadows.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
